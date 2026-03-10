@@ -36,3 +36,4 @@
 |opciones|acciones|
 |--------|--------|
 |1.Ingrese el producto|poner un nuevo producto al gusto de cada uno de nostros si yo quiero pongo una gaseosa y me ejecuta esa accion y me la guarda en el json|
+# editar-cafes
